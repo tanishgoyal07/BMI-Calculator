@@ -2,6 +2,6 @@
 
 Calculate your BMI
 
-![image](https://user-images.githubusercontent.com/94990169/177472441-ea6e0e5c-abeb-4d57-92d5-0bd60e3b0aee.png)
 
-![image](https://user-images.githubusercontent.com/94990169/177472518-d6b4bf91-a211-4b82-a293-154dc5074d35.png)
+![Screenshot 2022-07-10 011403](https://user-images.githubusercontent.com/94990169/178120518-36868a56-d63a-4426-95b6-285f7062273d.png)
+![Screenshot 2022-07-10 011423](https://user-images.githubusercontent.com/94990169/178120520-bd556ea7-f7a5-4585-8d7e-404f7118764c.png)
